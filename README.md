@@ -9,4 +9,4 @@ Last but not the least tkinter for preparing the GUI.So ensure these packages ar
 
 Final view of app will be as follows.
 
-!"https://github.com/ganeshj15/password_generator/blob/main/pwd_generator.JPG"
+![](https://github.com/ganeshj15/password_generator/blob/main/pwd_generator.JPG)
